@@ -1,6 +1,6 @@
 # HomeReader Documentation
 
-# Nicole Hulett T3A1-Part A
+## Nicole Hulett T3A1-Part A
 
 # Table of contents
 - [Description](https://github.com/HomeReaderApp/HomeReaderDocs#Description)
@@ -25,6 +25,8 @@
 ![Application Architecture Diagram](docs/architectureDiagram.png)
 
 # Dataflow Diagram
+
+Click [here](docs/DataflowDiagram.drawio.pdf) for a closer inspection of the below diagram.
 
 ![Dataflow diagram](docs/dataflowDiagram.png)
 
