@@ -14,11 +14,59 @@
 - [Wireframes](https://github.com/HomeReaderApp/HomeReaderDocs#Wireframes)
 - [Trello Board](https://github.com/HomeReaderApp/HomeReaderDocs#Trello-Board)
 
-# Description
+# Description 
+
 # Purpose
+The main purpose of the HomeReader application is to provide a tool to support teachers and parents in communicating a child’s home reading progress. Many schools today continue to use a hard copy book to log all the home reading a student does. This is not environmentally friendly, or supportive of parents that are already time poor. HomeReader aims to replace the need for the old style home reading log and provide more accurate and accessible information to teachers by students or parents (depending on age of child) logging their home reading each night on the app. 
+
 # Functionality/Features
+-	Separate login pages for teachers and students/parents
+-	An easy to fill in form for students/parents to log their home reading
+-	A teacher portal where a teacher can quickly navigate to the information they want to view
+-	Ability for teachers to create more than one class and add students to each class
+-	Teachers can provide an easy, but unique login code for each of their students
+-	A page for teachers to see the highest rated books that their students have been reading
+-	A page for teachers to see a list of the students in a class with easy functionality to update or delete students
+-	An individual profile page that gives all the latest reading information on a specified student
+-	A page where teachers can view any comments that parents/students are making
+
 # Target Audience
+The HomeReader application is targeted at teachers, parents and students. Teachers are the main audience, as they will be the users that control how the application is used by their students. Registered teachers also have access to the most information through the teacher portal. Parents will utilize the application to log their child’s home reading or assist this process depending on the age and ability of their child. The application is also targeted at students to log their home reading every day. HomeReader provides an easy to login and use interface to ensure the process can be done quickly and easily by students. 
+
 # Tech Stack
+**Front-end**
+HTML
+JavaScript
+CSS
+React
+
+**Back-end**
+Express
+Node.js
+
+**Database**
+MongoDB
+Mongoose
+
+**Deployment**
+Netlify (Front-end)
+Heroku (Back-end)
+
+**Project Management Tools**
+Trello
+
+**Testing**
+Jest
+React testing
+
+**DevOps Tools**
+Git
+GitHub
+Visual Studio Code
+
+**Design Tools**
+Figma
+Draw.io
 
 # Application Architecture Diagram
 
@@ -76,6 +124,33 @@ After discussion with parents and students at my current school, the following u
 -	As a parent/student I want the application to be easily accessible and viewable on a mobile or tablet device as well as a computer screen. 
 
 # Wireframes
+
+## Landing Page
+![HomeReader landing page](docs/wireframes/landing.png)
+## Teacher Login
+![Teacher login](docs/wireframes/login.png)
+## Teacher Register
+![Teacher register](docs/wireframes/register.png)
+## Teacher Portal
+![Teacher Portal](docs/wireframes/portal.png)
+## Student Login
+![Student Login](docs/wireframes/student.png)
+## Student reading form
+![Student reading form](docs/wireframes/reader.png)
+## Classes
+![Class](docs/wireframes/classes.png)
+## Class list
+![Class list](docs/wireframes/class.png)
+## Add Student
+![Add student page](docs/wireframes/addStudent.png)
+## Edit Student
+![Edit student page](docs/wireframes/editStudent.png)
+## Student profile
+![Student profile](docs/wireframes/student.png)
+## Favourite books
+![Favourite books page](docs/wireframes/books.png)
+## Comments
+![Comments page](docs/wireframes/Comments.png)
 
 # Trello Board
 
