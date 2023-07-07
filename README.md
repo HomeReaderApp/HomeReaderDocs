@@ -35,38 +35,38 @@ The HomeReader application is targeted at teachers, parents and students. Teache
 
 # Tech Stack
 **Front-end**
-HTML
-JavaScript
-CSS
-React
+- HTML
+- JavaScript
+- CSS
+- React
 
 **Back-end**
-Express
-Node.js
+- Express
+- Node.js
 
 **Database**
-MongoDB
-Mongoose
+- MongoDB
+- Mongoose
 
 **Deployment**
-Netlify (Front-end)
-Heroku (Back-end)
+- Netlify (Front-end)
+- Heroku (Back-end)
 
 **Project Management Tools**
-Trello
+- Trello
 
 **Testing**
-Jest
-React testing
+- Jest
+- React testing library
 
 **DevOps Tools**
-Git
-GitHub
-Visual Studio Code
+- Git
+- GitHub
+- Visual Studio Code
 
 **Design Tools**
-Figma
-Draw.io
+- Figma
+- Draw.io
 
 # Application Architecture Diagram
 
