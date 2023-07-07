@@ -76,7 +76,7 @@ Draw.io
 
 Click [here](docs/DataflowDiagram.drawio.pdf) for a closer inspection of the below diagram.
 
-![Dataflow diagram](docs/dataflowDiagram.png)
+![Dataflow diagram](docs/dataFlow.png)
 
 # User Stories
 
