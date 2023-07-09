@@ -2,6 +2,8 @@
 
 ## Nicole Hulett T3A1-Part A
 
+[GitHub Repository](https://github.com/HomeReaderApp/HomeReaderDocs)
+
 [Video presentation of Application](https://vimeo.com/843611257/a16c99ae75)
 
 # Table of contents
