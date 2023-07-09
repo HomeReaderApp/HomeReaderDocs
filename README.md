@@ -2,6 +2,8 @@
 
 ## Nicole Hulett T3A1-Part A
 
+[Video presentation of Application](https://vimeo.com/843155987/6f4d38d63e)
+
 # Table of contents
 - [Description](https://github.com/HomeReaderApp/HomeReaderDocs#Description)
 - [Purpose](https://github.com/HomeReaderApp/HomeReaderDocs#Purpose)
@@ -156,6 +158,11 @@ After discussion with parents and students at my current school, the following u
 
 My Trello board can be viewed [here](https://trello.com/b/vsvw5sQt/home-reader-app).
 
-![Trello initial board](docs/1Initial.png)
-![Trello initial board](docs/2userStory.png)
-![Trello initial board](docs/3wireframes.png)
+![Trello initial board](docs/trello/1Initial.png)
+
+After further research on Trello. I updated how I was using labels and custom fields. My labels indicate the amount of work required for each card in regards to how small or big it is. The custom fields tag state what part of the application that card is related to.
+
+![Trello before coding board](docs/trello/Trello1.png)
+![user stories task card](docs/trello/TrelloCard1.png)
+![wireframes task card](docs/trello/trelloCard3.png)
+![app architecture task card](docs/trello/trelloCard4.png)
